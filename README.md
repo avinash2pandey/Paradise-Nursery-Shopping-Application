@@ -11,5 +11,5 @@ This is a shopping cart application for an online plant shop developed as part o
 
 ## Project Links
 
-- **GitHub Repository:** [[https://github.com/avinash2pandey/Paradise-Nursery-Shopping-Application]]((https://github.com/avinash2pandey/Paradise-Nursery-Shopping-Application))
+- **GitHub Repository:** [[https://github.com/Visala-P/Paradise-Nursery-Shopping-Application](https://github.com/avinash2pandey/Paradise-Nursery-Shopping-Application)]
 
